@@ -29,7 +29,7 @@ Member Variables
 
   .. _class_ScrollContainer_scroll_vertical:
 
-- :ref:`int<class_int>` **scroll_vertical** - The current horizontal scroll value.
+- :ref:`int<class_int>` **scroll_vertical** - The current vertical scroll value.
 
   .. _class_ScrollContainer_scroll_vertical_enabled:
 
