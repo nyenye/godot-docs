@@ -11,7 +11,7 @@ For the sake of example, we will create a simple UI with a button, that when pre
 Preparing scene
 ---------------
 
-Create a new empty scene, add a CanvasLayer as the root node and add an script to it. Then add two child nodes to it: a Button and an HTTPRequest node. You will need to connect the following signals to the CanvasLayer script:
+Create a new empty scene, add a CanvasLayer as the root node and add a script to it. Then add two child nodes to it: a Button and an HTTPRequest node. You will need to connect the following signals to the CanvasLayer script:
 
 - Button.pressed: When the button is pressed, we will start the request.
 - HTTPRequest.request_completed: When the request is completed, we will get the requested data as an argument.
